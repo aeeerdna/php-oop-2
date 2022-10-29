@@ -5,7 +5,7 @@ L'utente potrà sia comprare i prodotti senza registrarsi, oppure iscriversi e r
 Il pagamento avviene con la carta di credito, che non deve essere scaduta.
  -->
 
- <?php
+<?php
 
 
 ?>
